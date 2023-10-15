@@ -1,0 +1,28 @@
+
+> curso-cypress-v2@1.0.0 cy:open
+> cypress open
+
+
+[0mGET /__/ [32m200 [0m16.321 ms - -[0m
+[0mGET /__cypress/runner/cypress_runner.css [32m200 [0m10.592 ms - -[0m
+[0mPOST /ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard [32m200 [0m700.460 ms - -[0m
+[0mGET /chrome-variations/seed?osname=win&channel=stable&milestone=117 [36m304 [0m757.495 ms - -[0m
+[0mGET /__cypress/runner/cypress_runner.js [32m200 [0m8.580 ms - -[0m
+[0mGET /__cypress/runner/favicon.ico [32m200 [0m2.552 ms - -[0m
+[0mGET /__cypress/iframes/integration%2FCAC-TAT.spec.js [32m200 [0m14.521 ms - 928[0m
+[0mGET /__cypress/runner/fonts/fa-solid-900.woff2 [32m200 [0m4.894 ms - 76120[0m
+[0mGET /__cypress/runner/fonts/mulish-latin-400-normal.woff2 [32m200 [0m8.627 ms - 31176[0m
+[0mGET /__cypress/runner/fonts/open-sans-latin-400-normal.woff2 [32m200 [0m8.383 ms - 14380[0m
+[0mGET /__cypress/runner/fonts/mulish-latin-500-normal.woff2 [32m200 [0m7.457 ms - 31176[0m
+[0mGET /v1/pages/ChVDaHJvbWUvMTE3LjAuNTkzOC4xNTISEAnJi3XGkzNlbBIFDZFhlU4SFwkDzbNBOWQSrRIFDS-IPoISBQ2RYZVO?alt=proto [32m200 [0m835.628 ms - -[0m
+[0mGET /__cypress/tests?p=cypress%5Cintegration%5CCAC-TAT.spec.js [32m200 [0m3377.892 ms - -[0m
+[0mGET /__cypress/tests?p=cypress%5Csupport%5Cindex.js [32m200 [0m3482.872 ms - -[0m
+[0mGET /__cypress/runner/fonts/fa-regular-400.woff2 [32m200 [0m13.600 ms - 13600[0m
+[0mGET /src/index.html [32m200 [0m49.203 ms - -[0m
+[0mGET /src/style.css [32m200 [0m34.839 ms - -[0m
+[0mGET /src/script.js [32m200 [0m64.028 ms - -[0m
+[0mGET /src/privacy.html [32m200 [0m21.874 ms - -[0m
+[0mGET /src/style.css [36m304 [0m17.905 ms - -[0m
+[0mGET /v1/pages/ChVDaHJvbWUvMTE3LjAuNTkzOC4xNTISQQl2AtoEQZ77DhIFDS-IPoISBQ2RYZVOEgUNa2iabhIFDU-eJ_gSBQ2DqFs9EgUNBV7IGxIFDfVYQ1ISBQ0WN2X-EhcJA82zQTlkEq0SBQ0viD6CEgUNkWGVThIzCRMCGo_B4W05EgUNa2iabhIFDU-eJ_gSBQ2DqFs9EgUNBV7IGxIFDfVYQ1ISBQ0WN2X-?alt=proto [32m200 [0m714.430 ms - -[0m
+[0mPOST /v1:GetModels?key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw [32m200 [0m813.483 ms - -[0m
+[0mGET /__cypress/runner/fonts/mulish-latin-700-normal.woff2 [32m200 [0m103.680 ms - 31176[0m
